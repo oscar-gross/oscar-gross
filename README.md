@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @oscar-gross
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a javascript web developer, working in the front and back-end.
+- 🌱 I’m currently learning Solidity and other blockchains technologies, I have some small projects about it.
 
-<!---
-oscar-gross/oscar-gross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+That's my personal account: https://github.com/oscargross
